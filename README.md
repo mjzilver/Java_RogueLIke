@@ -11,3 +11,10 @@ Features include:
 - line of sight in those caves
 - a minimap which only displays all tiles that have been in LOS
 - basic combat system
+
+## overview of a generated world map
+![alt text](https://raw.githubusercontent.com/mjzilver/Java_RogueLike/main/assets/worldmap.png)
+## the world in a local view
+![alt text](https://raw.githubusercontent.com/mjzilver/Java_RogueLike/main/assets/localmap.png)
+## a generated cave with a spider and some coins
+![alt text](https://raw.githubusercontent.com/mjzilver/Java_RogueLike/main/assets/cave_map.png)
